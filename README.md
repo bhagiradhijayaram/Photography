@@ -31,7 +31,7 @@ To get started with the project, follow these steps:
 
 ## Deployment
 
-You can deploy the website using a hosting service such as GitHub Pages or another platform.
+You can deploy the website using a hosting service such as GitHub Pages and netlify.
 
 ## Contributing
 
@@ -45,4 +45,7 @@ Thank you for visiting this project! We hope you enjoy exploring the photography
 
 ## Live preview
 ![Screenshot (223)](https://github.com/bhagiradhijayaram/Photography/assets/116064700/e82abafc-0994-4b7b-b19f-3cbf3b7af9a4)
+
+## Live demo
+Website : https://photography45.netlify.app/
 
