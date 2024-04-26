@@ -27,13 +27,7 @@ To get started with the project, follow these steps:
     git clone <https://github.com/bhagiradhijayaram/Photography.git>
     ```
 
-2. **Navigate to the project directory**: Go to the project directory:
-
-    ```bash
-    cd photography-website
-    ```
-
-3. **Open the website**: You can open the `index.html` file in a web browser to view the website.
+2. **Open the website**: You can open the `index.html` file in a web browser to view the website.
 
 ## Deployment
 
@@ -42,10 +36,6 @@ You can deploy the website using a hosting service such as GitHub Pages or anoth
 ## Contributing
 
 If you would like to contribute to this project, feel free to fork the repository and submit a pull request. Please follow the project's coding guidelines and best practices.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
