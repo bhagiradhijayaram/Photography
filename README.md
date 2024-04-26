@@ -42,3 +42,7 @@ If you would like to contribute to this project, feel free to fork the repositor
 For any questions or feedback, you can reach out to the project maintainer at [your email address].
 
 Thank you for visiting this project! We hope you enjoy exploring the photography website!
+
+## Live preview
+![Screenshot (223)](https://github.com/bhagiradhijayaram/Photography/assets/116064700/e82abafc-0994-4b7b-b19f-3cbf3b7af9a4)
+
