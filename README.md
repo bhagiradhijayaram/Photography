@@ -24,7 +24,7 @@ To get started with the project, follow these steps:
 1. **Clone the repository**: Clone this repository to your local machine using the command:
 
     ```bash
-    git clone <repository_url>
+    git clone <https://github.com/bhagiradhijayaram/Photography.git>
     ```
 
 2. **Navigate to the project directory**: Go to the project directory:
